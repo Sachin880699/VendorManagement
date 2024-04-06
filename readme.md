@@ -1,18 +1,18 @@
 
 
-# Vendor Management System with Performance Metrics
+# Vendor Management System
 ___________________________________________________________
 
 # setup
 
 The first thing to do is to clone this repository
 
-        git clone https:
-        cd proect_name
+        git clone https://github.com/Sachin880699/VendorManagement
+        cd VendorManagement
 
 create a virtual environment to install dependencies in and active it
 
-        python3 -m venv env_name
+        python3 -m venv env
         source env/bin/activate
 
 Then install the dependencies:
