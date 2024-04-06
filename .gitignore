@@ -1,0 +1,46 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore the virtual environment directory
+venv/
+env/
+
+# Ignore local development settings
+local_settings.py
+
+# Ignore database files
+*.sqlite3
+*.db
+
+# Ignore media files (uploaded by users)
+/media/
+
+# Ignore static files (collected static files)
+/staticfiles/
+
+# Ignore secret key files
+*.key
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore logs and temporary files
+/logs/
+/tmp/
+
+# Ignore migrations directory
+/migrations/
+
+# Ignore SQLite database file
+*.sqlite3
+
+# Ignore media files (uploaded files)
+/media/
+
+# Ignore virtual environment directory
+/env/
